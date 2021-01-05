@@ -230,9 +230,13 @@
  
  .btn {
      border: 1px solid white;
-     padding: 10px 15px;
+     padding: 10px 25px;
      border-radius: 42px;
      margin-right: 28px;
+ }
+ 
+ .buttn {
+     display: flex;
  }
  
  .button {
@@ -423,7 +427,6 @@
      color: white;
      border-radius: 42px;
      margin-right: 28px;
-     width: 26%;
      font-size: 12px;
  }
  /*-------------------------------- information ------------------------------*/
